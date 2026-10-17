@@ -1,0 +1,11 @@
+PropertyID,PropertyType,City,Price,AreaSqFt,Bedrooms,Status,LastUpdated
+1001,Apartment,Dubai,850000,1200,2,Available,2026-10-10
+1002,Villa,Abu Dhabi,1500000,2400,4,Sold,2026-10-11
+1003,Apartment,Dubai,650000,950,1,Available,2026-10-11
+1004,Townhouse,Sharjah,920000,1600,3,Available,2026-10-12
+1005,Villa,Dubai,2200000,3200,5,Sold,2026-10-12
+1006,Apartment,Abu Dhabi,700000,1050,2,Available,2026-10-13
+1007,Townhouse,Dubai,1100000,1800,3,Reserved,2026-10-13
+1008,Villa,Sharjah,1350000,2600,4,Available,2026-10-14
+1009,Apartment,Dubai,780000,1150,2,Sold,2026-10-14
+1010,Townhouse,Abu Dhabi,980000,1700,3,Available,2026-10-15
